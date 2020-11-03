@@ -1,2 +1,2 @@
-# Portf-lio
+# Portfolio
 Um repositório para adicionar projetos práticos
